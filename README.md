@@ -13,3 +13,6 @@
 ![mysql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql&logoColor=F8C52C)
 ![Posgresql](https://img.shields.io/badge/-Posgresql-090909?style=for-the-badge&logo=Posgresql&logoColor=F88C00)
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=6296CC)
+
+### Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/muhammadali-rustamkulov-38b627263/)
