@@ -1,4 +1,4 @@
-[[Header](https://github.com/rustamkulov/rustamkulov/blob/main/Assets/image_2023-08-01_18-25-08.png)]()
+[![Header](https://github.com/rustamkulov/rustamkulov/blob/main/Assets/Screenshot%202023-08-01%20182457.png)]()
 
 
 
